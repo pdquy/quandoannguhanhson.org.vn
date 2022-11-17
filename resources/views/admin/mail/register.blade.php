@@ -1,0 +1,2 @@
+Hệ thống website <a href="quandoannguhanhson.org.vn">quandoannguhanhson.org.vn</a> đã tiếp nhận 01 tài khoản đăng ký mới. Cần bạn xem xét và phê duyệt.
+Truy cập <a href="http://quandoannguhanhson.org.vn/admin/user">Quản lý tài khoản </a>để biết thêm chi tiết.

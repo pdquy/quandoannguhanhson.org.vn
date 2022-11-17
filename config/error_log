@@ -1,0 +1,32 @@
+[24-Oct-2021 12:40:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gbhdawqhhosting/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gbhdawqhhosting/public_html/config/services.php on line 18
+[24-Oct-2021 12:42:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gbhdawqhhosting/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gbhdawqhhosting/public_html/config/mail.php on line 19
+[24-Oct-2021 12:59:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gbhdawqhhosting/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gbhdawqhhosting/public_html/config/filesystems.php on line 16
+[24-Oct-2021 13:02:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gbhdawqhhosting/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gbhdawqhhosting/public_html/config/app.php on line 16
+[29-Oct-2021 10:14:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gbhdawqhhosting/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gbhdawqhhosting/public_html/config/services.php on line 18
+[29-Oct-2021 10:14:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gbhdawqhhosting/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gbhdawqhhosting/public_html/config/mail.php on line 19
+[29-Oct-2021 10:14:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gbhdawqhhosting/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gbhdawqhhosting/public_html/config/filesystems.php on line 16
+[29-Oct-2021 10:15:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gbhdawqhhosting/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gbhdawqhhosting/public_html/config/app.php on line 16
